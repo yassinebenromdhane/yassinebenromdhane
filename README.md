@@ -5,8 +5,8 @@
 
 <h3 align="center">How to reach me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/gustavo-soriano-7326b9130"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gustavo-soriano-7326b9130"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="tel:+21623300054"><img src="https://img.shields.io/badge/whatsapp-%3AD532.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:yassine.beno@outlook.fr"><img src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white" /></a>
   <br>
@@ -99,15 +99,14 @@
 ##
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
+    <a href="https://www.facebook.com/mouhamadyassine.benromdhane/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/sudip-mondal-374a12201/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/med-yassine-ben-romdhane-2360161b4/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
-    <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
-            width="40" /></a>
+
+    
 </p>
 <hr>
 <p align="left"> 
