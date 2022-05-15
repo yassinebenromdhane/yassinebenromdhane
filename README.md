@@ -109,16 +109,18 @@
     
 </p>
 <hr>
-<p align="left"> 
+<p align="center"> 
 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=yassinebenromdhane&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebenromdhane"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yassinebenromdhane&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebenromdhane"/>
  
 </p>
 
-<p align="left">
+<p align="center">
  
    <img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
+  <img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=yassinebenromdhane" />
+  
  </p>
  
 
