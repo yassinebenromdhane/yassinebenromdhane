@@ -110,8 +110,16 @@
 </p>
 <hr>
 <p align="left"> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebenromdhane">
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=yassinebenromdhane&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebenromdhane"/>
+ 
 </p>
+
+<p align="left">
+ 
+   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
+ </p>
+ 
 
 
