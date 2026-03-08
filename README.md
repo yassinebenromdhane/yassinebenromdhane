@@ -189,7 +189,7 @@ fun_fact: "I love turning ideas into real products through code"
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" /> &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yassinebenromdhane&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="90%" />
+  <img src="https://github-trophies.vercel.app/?username=yassinebenromdhane&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="90%" />
 </div>
 
 <br/>
