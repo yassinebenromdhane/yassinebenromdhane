@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Med%20Yassine%20Ben%20Romdhane&fontSize=36&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Med%20Yassine%20Ben%20Romdhane&fontSize=36&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Full-Stack+JavaScript+%26+Java+Developer;React+%7C+Angular+%7C+Vue.js+%7C+Node.js;Spring+Boot+%7C+Android+%7C+Firebase;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%40+B2M-IT;Java+%7C+Spring+Boot+%7C+Microservices;Docker+%7C+GitHub+Actions+%7C+CI%2FCD;Building+scalable+backend+applications;Always+learning+new+technologies" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,11 +38,14 @@
 ```yaml
 name: Med Yassine Ben Romdhane
 location: Tunisia
-role: Full-Stack Web & Mobile Developer
+role: Software Engineer
+company: B2M-IT (since March 2023)
 education: Software Engineering
 
-currently_working_on: Web Applications with React & Node.js
-currently_learning: Advanced Cloud Architecture & DevOps
+currently_working_on: Java & Spring Boot backend applications
+experience_with: ["Microservices", "Docker", "GitHub Actions CI/CD"]
+testing: ["JUnit 5 (unit testing)", "Postman (REST API manual testing)"]
+monitoring: ["Grafana", "Prometheus"]
 hobbies: ["Reading", "Music", "Open Source"]
 
 fun_fact: "I love turning ideas into real products through code"
@@ -70,9 +73,9 @@ fun_fact: "I love turning ideas into real products through code"
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,firebase&theme=dark" alt="Backend" />
 </p>
 
-### Tools & Platforms
+### Tools, DevOps & Monitoring
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,androidstudio,linux&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vscode,androidstudio,linux,grafana,prometheus&theme=dark" alt="Tools" />
 </p>
 
 </div>
@@ -110,6 +113,7 @@ fun_fact: "I love turning ideas into real products through code"
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=microdotblog&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -139,8 +143,12 @@ fun_fact: "I love turning ideas into real products through code"
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -156,14 +164,7 @@ fun_fact: "I love turning ideas into real products through code"
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yassinebenromdhane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yassinebenromdhane&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebenromdhane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=yassinebenromdhane&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -217,3 +218,6 @@ fun_fact: "I love turning ideas into real products through code"
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" />
+ 
+
+
