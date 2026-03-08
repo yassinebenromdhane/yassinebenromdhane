@@ -53,6 +53,31 @@ fun_fact: "I love turning ideas into real products through code"
 
 <br/>
 
+<!-- Work Experience Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" /> &nbsp;Work Experience
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+### Software Engineer @ [B2M-IT](https://www.b2m-it.com/) &nbsp; <sub><sup>(March 2023 - Present)</sup></sub>
+
+- Developing and maintaining **Java & Spring Boot** backend applications
+- Building **microservices architecture** with Docker containerization
+- Setting up **CI/CD pipelines** using GitHub Actions for automated builds and deployments
+- Writing **unit tests** with JUnit 5 to ensure code quality and reliability
+- Performing **REST API testing** with Postman for manual validation
+- Implementing application **monitoring** using Grafana and Prometheus dashboards
+- Collaborating with cross-functional teams using Git-based workflows
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
 <!-- Tech Stack Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp;Tech Stack
 
@@ -83,7 +108,7 @@ fun_fact: "I love turning ideas into real products through code"
 <br/>
 
 <!-- Skills Detail Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="30" /> &nbsp;Skills Overview
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" /> &nbsp;Skills Overview
 
 <div align="center">
 <table>
@@ -160,6 +185,15 @@ fun_fact: "I love turning ideas into real products through code"
 
 <br/>
 
+<!-- GitHub Trophies -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" /> &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yassinebenromdhane&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="90%" />
+</div>
+
+<br/>
+
 <!-- GitHub Stats Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> &nbsp;GitHub Analytics
 
@@ -192,6 +226,42 @@ fun_fact: "I love turning ideas into real products through code"
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br/>
+
+<!-- What I Bring Section -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Idea" width="30" /> &nbsp;What I Bring to the Table
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Backend-6DB33F?style=for-the-badge" alt="Backend" /><br/><br/>
+<b>Backend Development</b><br/>
+Designing robust APIs and microservices with Java & Spring Boot
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge" alt="DevOps" /><br/><br/>
+<b>CI/CD & DevOps</b><br/>
+Automating builds and deployments with Docker & GitHub Actions
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Testing-25A162?style=for-the-badge" alt="Testing" /><br/><br/>
+<b>Quality Assurance</b><br/>
+Ensuring reliability with JUnit 5 unit tests & Postman API testing
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Monitoring-F46800?style=for-the-badge" alt="Monitoring" /><br/><br/>
+<b>Monitoring</b><br/>
+Tracking application health with Grafana & Prometheus
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
